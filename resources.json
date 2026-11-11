@@ -117,5 +117,22 @@
     "question": "Analyse how exercising in hot conditions affects temperature regulation and cardiovascular function, and evaluate how heat acclimation could influence endurance performance.",
     "duration": null,
     "featured": true
+  },
+  {
+    "id": 9,
+    "title": "The Science Behind the Perfect Pole Vault",
+    "paper": "Paper 1",
+    "topic": "1.3 Biomechanics",
+    "type": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Article"
+    },
+    "url": "https://worldathletics.org/news/news/biomechanics-reports-world-indoor-championshi",
+    "image": "https://media.aws.iaaf.org/media/Original/c173e699-dc22-420c-a6fa-20d0d466ff4c.jpg?v=1585318642",
+    "description": "Can technology help an Olympic champion jump even higher? Discover how researchers used 28 high-speed cameras to analyse elite athletes at the World Indoor Championships. Olympic pole vaulter Katerina Stefanidi explains how biomechanical data revealed differences in her technique, helping coaches understand how small changes in movement can influence performance.",
+    "question": "Analyse how biomechanical technology can be used to identify weaknesses in a pole vaulter's technique and improve sporting performance.",
+    "duration": "5 mins",
+    "featured": true
   }
 ]
