@@ -160,5 +160,23 @@
     "question": "Evaluate the effectiveness of virtual reality training in developing decision-making skills in football. Consider how different methods of practice and positive or negative transfer might influence performance in real matches.",
     "duration": "20 mins",
     "featured": true
+  },
+  {
+    "id": 11,
+    "title": "Why Are ACL Injuries Such a Problem in Women's Football?",
+    "paper": "Paper 1",
+    "topic": "1.2 Exercise Physiology",
+    "subtopic": "1.2.c Injury prevention and the rehabilitation of injury — Intrinsic and extrinsic risk factors",
+    "type": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Article"
+    },
+    "url": "https://www.thefa.com/news/2026/nov/05/the-fa-and-wsl-football-announce-landmark-acl-research-project-20260511",
+    "image": null,
+    "description": "Why are ACL injuries such a major concern in women's football? The FA and WSL Football have launched a research project investigating the factors that may contribute to these injuries. Explore how anatomy, training loads, biomechanics and other potential risk factors could influence injury prevention, and consider how research may improve player welfare.",
+    "question": "Analyse how intrinsic and extrinsic risk factors may contribute to ACL injuries in women's football. Evaluate how coaches and medical teams could reduce these risks through appropriate training and injury prevention strategies.",
+    "duration": "5 mins",
+    "featured": true
   }
 ]
