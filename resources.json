@@ -250,5 +250,23 @@
     "question": "Evaluate how the nutritional requirements of an elite endurance athlete might differ from those of a power athlete. How could their dietary choices influence performance and recovery?",
     "duration": null,
     "featured": true
+  },
+  {
+    "id": 18,
+    "title": "Does What You Wear Stop You Playing Sport?",
+    "paper": "Paper 3",
+    "topic": "3.1. Sport and Society",
+    "subtopic": "3.1b Contemporary issues in physical activity and sport — barriers to participation",
+    "type": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 2,
+      "Value": "Video"
+    },
+    "url": "https://www.skysports.com/watch/video/sports/13531478/beyond-the-noise-the-importance-of-inclusive-kit-in-womens-sport?utm_source=chatgpt.com",
+    "image": "https://e0.365dm.com/26/04/1600x900/skysports-netball-sport_7219299.jpg?20260413201236",
+    "description": "Could something as simple as sports kit prevent women and girls from participating? London Mavericks netball players discuss why inclusive clothing options matter. Explore how traditional sporting expectations, body confidence and kit choices can influence participation, and consider whether changing sporting traditions could help make sport more accessible to everyone.",
+    "question": "Evaluate the extent to which traditional sporting kit requirements create barriers to female participation in sport. Should governing bodies be responsible for making sportswear more inclusive?",
+    "duration": "5 min",
+    "featured": true
   }
 ]
