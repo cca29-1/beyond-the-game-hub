@@ -1,0 +1,73 @@
+name: Publish BTEC Sport Resources
+
+on:
+  repository_dispatch:
+    types: [publish-resources]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-resources
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Update resources.json
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const resources = context.payload.client_payload?.resources;
+
+            if (!Array.isArray(resources)) {
+              throw new Error("Missing resources array");
+            }
+
+            const allowed = [
+              "id", "title", "unit", "learningAim",
+              "subtopic", "type", "url", "image",
+              "description", "question", "keywords",
+              "duration", "featured"
+            ];
+
+            const cleaned = resources.map(item => {
+              const result = {};
+              for (const key of allowed) {
+                if (Object.hasOwn(item, key)) {
+                  result[key] = item[key];
+                }
+              }
+              return result;
+            });
+
+            const { owner, repo } = context.repo;
+            const path = "resources.json";
+            let sha;
+
+            try {
+              const existing = await github.rest.repos.getContent({
+                owner, repo, path
+              });
+              sha = existing.data.sha;
+            } catch (error) {
+              if (error.status !== 404) throw error;
+            }
+
+            const content = Buffer.from(
+              JSON.stringify(cleaned, null, 2)
+            ).toString("base64");
+
+            await github.rest.repos.createOrUpdateFileContents({
+              owner,
+              repo,
+              path,
+              branch: "main",
+              message: "Update published BTEC Sport resources",
+              content,
+              ...(sha ? { sha } : {})
+            });
+
+            core.info(Published ${cleaned.length} resources);
