@@ -244,10 +244,10 @@
       "Id": 2,
       "Value": "Video"
     },
-    "url": null,
+    "url": "https://www.youtube.com/watch?v=GfJFVh-G3dA&utm_source=chatgpt.com",
     "image": null,
-    "description": null,
-    "question": null,
+    "description": "Discover what goes into preparing meals for elite athletes. Join Loughborough University's performance chef and a sports nutritionist as they explore athlete-focused food preparation. Consider how nutritional requirements might differ between sports and how appropriate dietary choices can support training, recovery and sporting performance.",
+    "question": "Evaluate how the nutritional requirements of an elite endurance athlete might differ from those of a power athlete. How could their dietary choices influence performance and recovery?",
     "duration": null,
     "featured": true
   }
