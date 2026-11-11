@@ -76,7 +76,7 @@
     "title": "When the Manager Loses It: Is Anger Effective Leadership?",
     "paper": "Paper 2",
     "topic": "2.2 Sport Pyschology",
-    "subtopic": null,
+    "subtopic": "Leadership styles",
     "type": {
       "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
       "Id": 2,
@@ -94,7 +94,7 @@
     "title": "Can Training at Altitude Really Make You Faster?",
     "paper": "Paper 1",
     "topic": "1.2 Exercise Physiology",
-    "subtopic": "1.2.b Preparation and training methods — altitude training",
+    "subtopic": "Altitude training",
     "type": {
       "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
       "Id": 1,
