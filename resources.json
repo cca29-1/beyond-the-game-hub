@@ -214,5 +214,23 @@
     "question": "Evaluate the claim that 'sitting is the new smoking'. To what extent can regular physical activity reduce the health risks associated with a sedentary lifestyle?\n",
     "duration": "5 mins",
     "featured": false
+  },
+  {
+    "id": 15,
+    "title": "Do Athletes Really Need Energy Gels?",
+    "paper": "Paper 1",
+    "topic": "1.2 Exercise Physiology",
+    "subtopic": "1.2.a Diet and nutrition — Ergogenic aids (nutritional aids)",
+    "type": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Article"
+    },
+    "url": "https://www.ausport.gov.au/ais/nutrition/supplements/group_a/sports-foods2/sports-gels/how-and-when-do-i-use-it",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMdL5ow0AKdZhHuY1pq7MLoL7JCOZ4dB289JsY4PYyjA&s=10",
+    "description": "Can an energy gel actually improve sporting performance, or is it an unnecessary expense? Explore how carbohydrate gels provide additional fuel during prolonged exercise and how nutritional strategies can act as ergogenic aids. Compare the demands of endurance events and shorter exercise sessions to determine when carbohydrate supplementation may be beneficial.\n",
+    "question": "Evaluate the effectiveness of energy gels as a nutritional ergogenic aid for a marathon runner compared with someone completing a 45-minute gym session. Consider the potential benefits, limitations and physiological demands of each activity.",
+    "duration": "7 mins",
+    "featured": true
   }
 ]
