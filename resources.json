@@ -49,5 +49,22 @@
     "question": "Evaluate the extent to which VAR has improved fairness in professional football, considering the accuracy of decisions, pressure on officials and the impact on spectators. Use examples from the article to support your judgement.",
     "duration": "15 mins",
     "featured": true
+  },
+  {
+    "id": 5,
+    "title": "Who Makes the Rules? FIFA Under Fire Over World Cup Decision",
+    "paper": "Paper 3",
+    "topic": "3.2. Contemporary issues in sport.",
+    "type": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Article"
+    },
+    "url": "https://www.bbc.co.uk/sport/football/articles/c5yzzd73871o?utm_source=chatgpt.com",
+    "image": null,
+    "description": "\tWhen FIFA decided not to enforce a World Cup suspension following Folarin Balogun's red card, UEFA questioned the integrity of the decision. Explore how governing bodies influence fairness in elite sport and consider the importance of consistent rules, accountability and ethical decision-making in maintaining public confidence in international competitions",
+    "question": "Evaluate the extent to which decisions made by international governing bodies can undermine fairness and integrity in sport. Use the FIFA controversy and other sporting examples to support your judgement.",
+    "duration": "5",
+    "featured": true
   }
 ]
