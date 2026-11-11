@@ -15,5 +15,22 @@
     "question": "Evaluate whether VAR has had a positive impact on professional football. Consider players, officials and spectators.",
     "duration": "20 mins",
     "featured": true
+  },
+  {
+    "id": 3,
+    "title": "Would You Watch the ‘Steroid Olympics’?",
+    "paper": "Paper 3",
+    "topic": "3.2. Contemporary issues in sport.",
+    "type": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Article"
+    },
+    "url": "https://www.bbc.co.uk/sport/articles/cj0p1p67v56o",
+    "image": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/4fb1/live/e5b1adb0-5436-11f1-97ae-1b4b9bb4c9eb.jpg",
+    "description": "What happens when performance-enhancing drugs are allowed in elite sport? The Enhanced Games challenge traditional ideas about fair competition, athlete welfare and sporting ethics. Explore why athletes might choose to use banned substances, the financial pressures behind their decisions and whether allowing doping could change the future of competitive sport.",
+    "question": "What happens when performance-enhancing drugs are allowed in elite sport? The Enhanced Games challenge traditional ideas about fair competition, athlete welfare and sporting ethics. Explore why athletes might choose to use banned substances, the financial pressures behind their decisions and whether allowing doping could change the future of competitive sport.",
+    "duration": "10 mins",
+    "featured": true
   }
 ]
