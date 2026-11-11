@@ -4,7 +4,7 @@
     "title": "Is VAR making football fairer?",
     "paper": "Paper 3",
     "topic": "3.2. Contemporary issues in sport.",
-    "subtopic": "Technology in sport",
+    "subtopic": "3.2 — Modern technology in sport",
     "type": {
       "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
       "Id": 4,
@@ -22,7 +22,7 @@
     "title": "Would You Watch the ‘Steroid Olympics’?",
     "paper": "Paper 3",
     "topic": "3.2. Contemporary issues in sport.",
-    "subtopic": "Ethics and deviance — Drugs and doping",
+    "subtopic": "3.2 — Ethics and deviance in sport",
     "type": {
       "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
       "Id": 1,
@@ -40,7 +40,7 @@
     "title": "VAR: Making Football Fairer or Creating More Controversy?",
     "paper": "Paper 3",
     "topic": "3.2. Contemporary issues in sport.",
-    "subtopic": "Technology in sport",
+    "subtopic": "3.2 — Modern technology in sport",
     "type": {
       "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
       "Id": 1,
