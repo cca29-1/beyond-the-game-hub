@@ -232,5 +232,23 @@
     "question": "Evaluate the effectiveness of energy gels as a nutritional ergogenic aid for a marathon runner compared with someone completing a 45-minute gym session. Consider the potential benefits, limitations and physiological demands of each activity.",
     "duration": "7 mins",
     "featured": true
+  },
+  {
+    "id": 16,
+    "title": "Eat Like an Elite Athlete: What's on the Menu?",
+    "paper": "Paper 1",
+    "topic": "1.2 Exercise Physiology",
+    "subtopic": "1.2c Diet and nutrition and their effect on physical activity and performance",
+    "type": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 2,
+      "Value": "Video"
+    },
+    "url": null,
+    "image": null,
+    "description": null,
+    "question": null,
+    "duration": null,
+    "featured": true
   }
 ]
