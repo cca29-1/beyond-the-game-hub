@@ -134,5 +134,22 @@
     "question": "Analyse how biomechanical technology can be used to identify weaknesses in a pole vaulter's technique and improve sporting performance.",
     "duration": "5 mins",
     "featured": true
+  },
+  {
+    "id": 10,
+    "title": "Can Virtual Reality Make You a Better Footballer?",
+    "paper": "Paper 2",
+    "topic": "2.1. Skill acquisition",
+    "type": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 3,
+      "Value": "Research"
+    },
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1410132/full",
+    "image": "https://synergy.ru/assets/upload/news/academy/249.3.jpg",
+    "description": "Could virtual reality help footballers make better decisions on the pitch? This research review examines 20 studies exploring how simulated sporting situations can develop decision-making skills in team sports. Discover how VR allows athletes to practise recognising situations and selecting appropriate responses, and consider whether these skills transfer into real competitive performance.",
+    "question": "Evaluate the effectiveness of virtual reality training in developing decision-making skills in football. Consider how different methods of practice and positive or negative transfer might influence performance in real matches.",
+    "duration": "20 mins",
+    "featured": true
   }
 ]
