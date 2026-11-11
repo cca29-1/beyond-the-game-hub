@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "id": 2,
+    "title": "Is VAR making football fairer?",
+    "paper": "Paper 3",
+    "topic": "3.2. Contemporary issues in sport.",
+    "type": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 4,
+      "Value": "Debate"
+    },
+    "url": "https://www.theifab.com/laws/latest/video-assistant-referee-var-protocol/?utm_source=chatgpt.com",
+    "image": null,
+    "description": "Explore whether VAR has improved fairness and decision-making in football, and its impact on the spectator experience...",
+    "question": "Evaluate whether VAR has had a positive impact on professional football. Consider players, officials and spectators.",
+    "duration": "20 mins",
+    "featured": true
+  }
+]
