@@ -178,5 +178,23 @@
     "question": "Analyse how intrinsic and extrinsic risk factors may contribute to ACL injuries in women's football. Evaluate how coaches and medical teams could reduce these risks through appropriate training and injury prevention strategies.",
     "duration": "5 mins",
     "featured": true
+  },
+  {
+    "id": 13,
+    "title": "Can AI Protect Athletes from Online Abuse?",
+    "paper": "Paper 3",
+    "topic": "3.2. Contemporary issues in sport.",
+    "subtopic": "Media and sport — effects of social media on performers",
+    "type": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Article"
+    },
+    "url": "https://www.insidethegames.biz/articles/ioc-cyber-abuse-protection-service-to-debut-at-dakar-2026",
+    "image": "https://img.olympics.com/images/image/private/t_original_1392-auto/f_auto/primary/goqbzpeiqp9xgz5uxfuu",
+    "description": "Elite athletes face increasing scrutiny on social media, but how can sporting organisations protect them? Discover how the International Olympic Committee is using artificial intelligence to identify online abuse at the Dakar 2026 Youth Olympic Games. Explore the impact of media exposure on athletes' wellbeing and consider the responsibility of governing bodies to safeguard young performers.",
+    "question": "Evaluate the extent to which social media has a positive or negative influence on elite athletes. To what extent should governing bodies be responsible for protecting performers from online abuse?",
+    "duration": "5 mins",
+    "featured": true
   }
 ]
