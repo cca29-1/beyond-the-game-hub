@@ -83,5 +83,22 @@
     "question": "Analyse the effectiveness of Arteta's leadership style during his half-time team talk. Under what circumstances might an autocratic approach be more effective than a democratic approach?",
     "duration": "20 mins",
     "featured": true
+  },
+  {
+    "id": 7,
+    "title": "Can Training at Altitude Really Make You Faster?",
+    "paper": "Paper 1",
+    "topic": "1.2 Exercise Physiology",
+    "type": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Article"
+    },
+    "url": "https://www.olympics.com/ioc/news/a-testing-ground-for-sports-science",
+    "image": "https://images.openai.com/static-rsc-4/TDXMyqe1wQkOfTr2xE4TqLxPjZHGdvRjJapStkWj8u2CXbbY1ig5uVUUIN-exCEYK5WAWmOpQ-eA-oVhtvq1pMzUc1O_-ApFa-uu6VS3OQvIvPDjh37kxgzIxCLQM-34g0sDJN87nBpQ73cJqJ_ucu9xkN5x2s380h7fxzz8q6Ci4vBXwkif82_Jlz1BKO_V?purpose=fullsize",
+    "description": "The 1968 Mexico City Olympics changed how scientists understood altitude and athletic performance. Discover why reduced oxygen availability affected endurance runners differently from sprinters and how this led to the development of altitude training. Explore why endurance athletes now train at altitude to improve their performance when competing at sea level.",
+    "question": "Evaluate the effectiveness of altitude training as a method of improving performance in endurance athletes. Consider both physiological benefits and potential limitations.",
+    "duration": null,
+    "featured": true
   }
 ]
