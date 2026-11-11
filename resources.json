@@ -100,5 +100,22 @@
     "question": "Evaluate the effectiveness of altitude training as a method of improving performance in endurance athletes. Consider both physiological benefits and potential limitations.",
     "duration": null,
     "featured": true
+  },
+  {
+    "id": 8,
+    "title": "Can You Train Your Body to Beat the Heat?",
+    "paper": "Paper 1",
+    "topic": "1.1 Applied anatomy & Physiology",
+    "type": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 3,
+      "Value": "Research"
+    },
+    "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1581594/full",
+    "image": "https://images.openai.com/static-rsc-4/0dYCNI5cE_dHwz3BK8B8amuPJ1672U2vnunpGCUNYYmCvOLdM6Vnl8oCKvkthOMtGiLUp-tFT6NZsWylsyWl2dUccHR3UbIuUr5Y9337EhCTuQMnJbeXLNghWu5IPSd65E7LS5WAO0tsLAW30GXpApgkwDBvDkeo5DOqn4D7WkjLR53cEzraboUW3Uze97Ly?purpose=fullsize",
+    "description": "Could training in extreme heat help endurance athletes perform better? Researchers compared runners completing four weeks of heat acclimation with those training in normal conditions. Discover how exercise in hot environments affects body temperature, aerobic performance and energy use, and explore the physiological adaptations that may help athletes cope with competing in the heat.",
+    "question": "Analyse how exercising in hot conditions affects temperature regulation and cardiovascular function, and evaluate how heat acclimation could influence endurance performance.",
+    "duration": null,
+    "featured": true
   }
 ]
