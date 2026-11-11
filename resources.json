@@ -66,5 +66,22 @@
     "question": "Evaluate the extent to which decisions made by international governing bodies can undermine fairness and integrity in sport. Use the FIFA controversy and other sporting examples to support your judgement.",
     "duration": "5",
     "featured": true
+  },
+  {
+    "id": 6,
+    "title": "When the Manager Loses It: Is Anger Effective Leadership?",
+    "paper": "Paper 2",
+    "topic": "2.2 Sport Pyschology",
+    "type": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 2,
+      "Value": "Video"
+    },
+    "url": "https://youtu.be/HmTAqTGr5CQ?utm_source=chatgpt.com",
+    "image": "https://img.youtube.com/vi/T3ZniL4K6SQ/hqdefault.jpg?utm_source=chatgpt.com",
+    "description": "After a disappointing first half against West Ham, Arsenal manager Mikel Arteta delivers an emotional team talk to his players. Explore how his communication and behaviour demonstrate characteristics of autocratic leadership. Consider how this approach might influence motivation, confidence and performance, and whether a different leadership style could be more effective.",
+    "question": "Analyse the effectiveness of Arteta's leadership style during his half-time team talk. Under what circumstances might an autocratic approach be more effective than a democratic approach?",
+    "duration": "20 mins",
+    "featured": true
   }
 ]
