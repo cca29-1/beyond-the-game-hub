@@ -4,6 +4,7 @@
     "title": "Is VAR making football fairer?",
     "paper": "Paper 3",
     "topic": "3.2. Contemporary issues in sport.",
+    "subtopic": null,
     "type": {
       "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
       "Id": 4,
@@ -21,6 +22,7 @@
     "title": "Would You Watch the ‘Steroid Olympics’?",
     "paper": "Paper 3",
     "topic": "3.2. Contemporary issues in sport.",
+    "subtopic": null,
     "type": {
       "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
       "Id": 1,
@@ -38,6 +40,7 @@
     "title": "VAR: Making Football Fairer or Creating More Controversy?",
     "paper": "Paper 3",
     "topic": "3.2. Contemporary issues in sport.",
+    "subtopic": null,
     "type": {
       "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
       "Id": 1,
@@ -55,6 +58,7 @@
     "title": "Who Makes the Rules? FIFA Under Fire Over World Cup Decision",
     "paper": "Paper 3",
     "topic": "3.2. Contemporary issues in sport.",
+    "subtopic": null,
     "type": {
       "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
       "Id": 1,
@@ -72,6 +76,7 @@
     "title": "When the Manager Loses It: Is Anger Effective Leadership?",
     "paper": "Paper 2",
     "topic": "2.2 Sport Pyschology",
+    "subtopic": null,
     "type": {
       "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
       "Id": 2,
@@ -89,6 +94,7 @@
     "title": "Can Training at Altitude Really Make You Faster?",
     "paper": "Paper 1",
     "topic": "1.2 Exercise Physiology",
+    "subtopic": "1.2.b Preparation and training methods — altitude training",
     "type": {
       "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
       "Id": 1,
@@ -106,6 +112,7 @@
     "title": "Can You Train Your Body to Beat the Heat?",
     "paper": "Paper 1",
     "topic": "1.1 Applied anatomy & Physiology",
+    "subtopic": "1.1.d Environmental effects on body systems — Exercise in the heat",
     "type": {
       "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
       "Id": 3,
@@ -123,6 +130,7 @@
     "title": "The Science Behind the Perfect Pole Vault",
     "paper": "Paper 1",
     "topic": "1.3 Biomechanics",
+    "subtopic": "1.3.a Biomechanical principles, levers and the use of technology — Analysing movement through the use of technology",
     "type": {
       "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
       "Id": 1,
@@ -140,6 +148,7 @@
     "title": "Can Virtual Reality Make You a Better Footballer?",
     "paper": "Paper 2",
     "topic": "2.1. Skill acquisition",
+    "subtopic": "Types and methods of practice; transfer of skills",
     "type": {
       "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
       "Id": 3,
