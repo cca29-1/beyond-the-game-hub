@@ -32,5 +32,22 @@
     "question": "What happens when performance-enhancing drugs are allowed in elite sport? The Enhanced Games challenge traditional ideas about fair competition, athlete welfare and sporting ethics. Explore why athletes might choose to use banned substances, the financial pressures behind their decisions and whether allowing doping could change the future of competitive sport.",
     "duration": "10 mins",
     "featured": true
+  },
+  {
+    "id": 4,
+    "title": "VAR: Making Football Fairer or Creating More Controversy?",
+    "paper": "Paper 3",
+    "topic": "3.2. Contemporary issues in sport.",
+    "type": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Article"
+    },
+    "url": "https://www.bbc.co.uk/sport/football/articles/cvgzl2gmvrzo",
+    "image": null,
+    "description": "VAR was introduced to make football fairer, but is it actually working? BBC Sport investigates refereeing mistakes during the 2025–26 Premier League season, revealing which clubs benefited and suffered most. Explore how technology influences decision-making, the accountability of officials and spectators’ enjoyment of sport, linking directly to the advantages and disadvantages of modern technology.",
+    "question": "Evaluate the extent to which VAR has improved fairness in professional football, considering the accuracy of decisions, pressure on officials and the impact on spectators. Use examples from the article to support your judgement.",
+    "duration": "15 mins",
+    "featured": true
   }
 ]
