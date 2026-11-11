@@ -94,7 +94,7 @@
     "title": "Can Training at Altitude Really Make You Faster?",
     "paper": "Paper 1",
     "topic": "1.2 Exercise Physiology",
-    "subtopic": "Altitude training",
+    "subtopic": "1.1.d — Environmental effects on body systems",
     "type": {
       "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
       "Id": 1,
@@ -148,7 +148,7 @@
     "title": "Can Virtual Reality Make You a Better Footballer?",
     "paper": "Paper 2",
     "topic": "2.1. Skill acquisition",
-    "subtopic": "Types and methods of practice; transfer of skills",
+    "subtopic": "2.1 — Skill acquisition (transfer of skills)",
     "type": {
       "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
       "Id": 3,
