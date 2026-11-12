@@ -268,5 +268,23 @@
     "question": "Evaluate the extent to which traditional sporting kit requirements create barriers to female participation in sport. Should governing bodies be responsible for making sportswear more inclusive?",
     "duration": "5 min",
     "featured": true
+  },
+  {
+    "id": 20,
+    "title": "The Twisties: When Your Brain Forgets How to Perform",
+    "paper": "Paper 2",
+    "topic": "2.2 Sport Pyschology",
+    "subtopic": "Confidence and self-efficacy in sports performance",
+    "type": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 2,
+      "Value": "Video"
+    },
+    "url": "https://www.youtube.com/watch?v=VFdkvd1rp5g",
+    "image": "https://img.youtube.com/vi/VFdkvd1rp5g/hqdefault.jpg",
+    "description": "How can an Olympic champion suddenly struggle to perform skills they have mastered? Discover the 'twisties', a phenomenon experienced by gymnast Simone Biles that disrupts spatial awareness during complex movements. Explore the relationship between confidence, psychological pressure and sporting performance, and consider why even the world's best athletes sometimes need to prioritise their safety.",
+    "question": "Analyse how a sudden loss of confidence or self-efficacy could affect the performance of an elite gymnast such as Simone Biles. How might a coach help the performer regain confidence safely?",
+    "duration": "15 mins",
+    "featured": true
   }
 ]
